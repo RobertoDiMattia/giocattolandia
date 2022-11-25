@@ -1,0 +1,9 @@
+{
+  "id": 5,
+  "productName": "Nemo",
+  "stockQuantity": 20,
+  "avaragePrice": 15,
+  "actualPrice": 15,
+  "barCode": 9878458,
+  "immediateAvaiability": false
+}
